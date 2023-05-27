@@ -1,0 +1,73 @@
+h1{
+    font-style: italic;
+}
+
+h2{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+}
+
+body{
+    max-width:max-content;
+    background-color: bisque;
+}
+
+.back{
+    background-color: aqua;
+}
+
+.cast{
+    width:250px;
+    border-width: 10px;
+    
+}
+
+h3{
+    font-size: 30px;
+}
+
+.matt{
+   
+    border-width: 500px;
+    height: 250px;
+    width:250px;
+}
+
+.storyline{
+    font-family: Arial, Helvetica, sans-serif;
+    font-display:inherit;
+    font-variant: small-caps;
+}
+
+.duo{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-variant: small-caps;
+}
+.bro{
+    border-width: 0.1px;
+    width: 50px;
+}
+
+.damon{
+    width: 250px;
+    height: 250px;
+    border-width:10px ;
+}
+
+.stefanelena{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.jeremy{
+    width: 500px;
+    height: 500px;
+    border-width: 10px;
+    border-radius: 50px;
+}
+
+.character{
+    font-size: 30px;
+}
